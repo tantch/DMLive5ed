@@ -1,0 +1,8 @@
+begin.Dragonborn
+subrace.IceDragonborn
+traits.$Ice Resistance - resistence to ice damage
+$Horn power - extra damage to horns
+abilities.$Breath - 4d8 damage in cone of 30 radius
+modifiers.$Constitution#1
+$Charisma#1
+end
